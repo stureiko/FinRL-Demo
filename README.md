@@ -1,2 +1,2 @@
 # FinRL-Demo
-Demo examples for articles
+Demo examples for articles on habr.com
