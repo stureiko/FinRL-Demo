@@ -487,4 +487,7 @@ cython_debug/
 notebooks/datasets/*
 notebooks/results/*
 notebooks/tensorboard_log/*
-trained_models/*
+notebooks/trained_models/*
+notebooks/Cumulative_returns.png
+notebooks/.DS_Store
+.DS_Store
